@@ -1,0 +1,14 @@
+= quickbase_client_extras
+
+A repository of example code that builds on quickbase_client .
+
+quickbase_client is a Ruby gem that wraps the QuickBase API ( http://www.quickbase.com ) .
+
+quickbase_client on github - https://github.com/garethlatwork/quickbase_client .
+
+quickbase_client gem - https://rubygems.org/gems/quickbase_client .
+
+
+
+
+
